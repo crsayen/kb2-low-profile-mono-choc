@@ -1,0 +1,3 @@
+[submodule "SeeedStudio-Xiao-KiCAD"]
+	path = SeeedStudio-Xiao-KiCAD
+	url = git@github.com:Anderson69s/SeeedStudio-Xiao-KiCAD.git
