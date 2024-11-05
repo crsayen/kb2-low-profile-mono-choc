@@ -4,4 +4,5 @@
   (lib (name "footprints")(type "KiCad")(uri "/Users/chris/Downloads/ul_CUS-12TB-2/KiCAD/2022-11-13_23-41-35/footprints.pretty")(options "")(descr ""))
   (lib (name "panelization")(type "KiCad")(uri "/Users/chris/dev/my-kicad-lib/Panelization.pretty")(options "")(descr ""))
   (lib (name "kb2")(type "KiCad")(uri "/Users/chrissayen/Documents/CAD/chris/keyboards/keyboard-two/kb2")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO_v1.0_191112")(type "KiCad")(uri "${KIPRJMOD}/SeeedStudio-Xiao-KiCAD/Seeeduino XIAO_v1.0_191112.pretty")(options "")(descr ""))
 )
